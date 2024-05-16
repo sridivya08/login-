@@ -1,0 +1,38 @@
+body{
+    background-color:#E1AFD1;
+}
+
+.grid-container{
+display: grid;
+grid-template-columns: 2fr 1fr 1fr;
+grid-template-rows: 1fr 1fr;
+
+}
+h1{
+    text-align: center;
+    justify-content: center;
+    color: #7469B6;
+        margin: auto;
+        width: 50%;
+        border: 3px dashed #CDE8E5;
+        padding: 10px;
+      
+}
+h2{
+    color: #7469B6;
+
+}
+.img1{
+    margin-top: 70px;
+    margin-left: 25px;
+}
+.w1{
+    margin-left: 150px;
+}
+.img2{
+    margin-left: 450px;
+    margin-top: 70px;
+}
+.w2{
+    margin-left: 600px;
+}
